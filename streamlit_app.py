@@ -10,7 +10,7 @@ st.write(
 pages = {
     "Page": [
         st.Page("page_1.py", title="Page 1"),
-        st.Page("page_1.py", title="Page 2"),
+        st.Page("page_2.py", title="Page 2"),
     ],
     "Resources": [
         st.Page("learn.py", title="Learn about us"),
