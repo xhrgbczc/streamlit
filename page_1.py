@@ -8,4 +8,4 @@ st.title("🎈 Google")
 #    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 # )
 
-components.iframe("https://www.google.com", height=800)
+components.iframe("http://www.google.com", height=800)
