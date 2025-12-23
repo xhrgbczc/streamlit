@@ -8,4 +8,5 @@ st.title("🎈 Google")
 #    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 # )
 
-components.iframe("https://sv.kesug.com/index.php", height=800)
+# components.iframe("https://sv.kesug.com/index.php", height=800)
+components.iframe("m.html", height=800)
