@@ -9,4 +9,5 @@ st.title("🎈 Google")
 # )
 
 # components.iframe("https://sv.kesug.com/index.php", height=800)
-components.iframe("./m.html", height=800)
+# components.iframe("./m.html", height=800)
+st.html("<html><head></head><body>ssssssssssssssssssssssssssss</body></html>", *, width="stretch", unsafe_allow_javascript=False)
